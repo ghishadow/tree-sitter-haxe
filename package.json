@@ -9,10 +9,10 @@
   "author": "vantreeseba@gmail.com",
   "license": "ISC",
   "dependencies": {
-    "nan": "^2.14.2"
+    "nan": "^2.15.0"
   },
   "devDependencies": {
-    "tree-sitter-cli": "^0.19.5"
+    "tree-sitter-cli": "^0.20.6"
   },
   "tree-sitter": [
     {
